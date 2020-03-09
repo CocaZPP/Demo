@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "m5311.h": "c",
+        "typedef.h": "c",
+        "usart.h": "c",
+        "drive.h": "c",
+        "stm32l1xx.h": "c",
+        "display.h": "c",
+        "data.h": "c",
+        "opt3001.h": "c",
+        "fonts_conf.h": "c",
+        "main.h": "c",
+        "si24r1.h": "c",
+        "menu.h": "c"
+    }
+}
